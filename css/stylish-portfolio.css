@@ -37,7 +37,7 @@ body {
     border-radius: 0;
     color: #fff;
     background-color: rgba(0,0,0,0.4);
-    text-indent: -10em;
+    text-indent: 0em;
 }
 
 .btn-dark:hover,
