@@ -38,7 +38,7 @@ body {
     color: #fff;
     background-color: rgba(0,0,0,0.4);
     text-indent: 0em;
-    left-margin: 10em;
+    margin-left: 10em;
 }
 
 .btn-dark:hover,
