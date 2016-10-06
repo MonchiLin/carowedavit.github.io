@@ -13,14 +13,15 @@ body {
 }
 
 body {
-    font-family: "Source Sans Pro","Helvetica Neue",Papyrus,Helvetica,Arial,sans-serif,Shonar;
+    font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif,Shonar;
 }
 
 .text-vertical-center {
+    font-family: Papyrus;
     display: table-cell;
     text-align: center;
     vertical-align: middle;
-    color: #FF1493;
+    color: #800080;
     text-indent: 25em;
 }
 
