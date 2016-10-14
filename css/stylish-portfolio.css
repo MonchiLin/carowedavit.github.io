@@ -36,8 +36,8 @@ body {
 
 .btn-dark {
     border-radius: 0;
-    color: #FF69B4;
-    background-color: rgba(0,0,0,0.4);
+    color: #fff;
+    background-color: #FF1493;
     text-indent: 0em;
     margin-left: 0em;
 }
