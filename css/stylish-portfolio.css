@@ -22,7 +22,7 @@ body {
     text-align: center;
     vertical-align: middle;
     color: #FFFAFA;
-    text-indent: 35em;
+    text-indent: 60em;
 }
 
 .text-vertical-center h1 {
@@ -39,7 +39,7 @@ body {
     color: #fff;
     background-color: rgba(0,0,0,0.4);
     text-indent: 0em;
-    margin-left: 20em;
+    margin-left: 0em;
 }
 
 .btn-dark:hover,
