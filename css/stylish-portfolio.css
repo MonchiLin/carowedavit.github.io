@@ -21,7 +21,7 @@ body {
     display: table-cell;
     text-align: center;
     vertical-align: middle;
-    color: #FF69B4;
+    color: #DB7093;
     text-indent: 35em;
 }
 
@@ -37,7 +37,7 @@ body {
 .btn-dark {
     border-radius: 0;
     color: #fff;
-    background-color: #FF1493;
+    background-color: #DB7093;
     text-indent: 0em;
     margin-left: 0em;
 }
