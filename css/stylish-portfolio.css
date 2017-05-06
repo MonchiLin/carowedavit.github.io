@@ -19,8 +19,8 @@ body {
 .text-vertical-center {
     font-family: Papyrus;
     display: table-cell;
-    text-align: center;
-    vertical-align: middle;
+    text-align: left;
+    vertical-align: bottom;
     color: #DB7093;
     text-indent: 0em;
 }
