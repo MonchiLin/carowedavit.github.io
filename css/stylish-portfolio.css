@@ -17,6 +17,7 @@ body {
 }
 
 .text-vertical-center {
+    font-family: FontAwesome;
     display: table-cell;
     text-align: left;
     vertical-align: bottom;
@@ -28,7 +29,7 @@ body {
     margin: 0;
     padding: 0;
     font-size: 4.5em;
-    font-weight: 700;
+    font-weight: 200;
 }
 
 /* Custom Button Styles */
