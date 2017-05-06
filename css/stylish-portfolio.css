@@ -17,7 +17,7 @@ body {
 }
 
 .text-vertical-center {
-    font-family: Verdana;
+    font-family: Trebuchet MS;
     display: table-cell;
     text-align: left;
     vertical-align: bottom;
