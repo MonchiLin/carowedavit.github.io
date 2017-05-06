@@ -17,7 +17,7 @@ body {
 }
 
 .text-vertical-center {
-    font-family: Monaco;
+    font-family: Verdana;
     display: table-cell;
     text-align: left;
     vertical-align: bottom;
