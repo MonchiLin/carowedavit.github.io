@@ -21,13 +21,13 @@ body {
     display: table-cell;
     text-align: left;
     vertical-align: bottom;
-    color:  #404040;
-    text-indent: 0.5em;
+    color:  #000000;
+    text-indent: 0.8em;
 }
 
 .text-vertical-center h1 {
     margin: 0;
-    padding: 0em;
+    padding: 0;
     font-size: 4.5em;
     color:  #404040;
     font-weight: 5;
