@@ -235,6 +235,11 @@ hr.small {
 
 .map {
     height: 500px;
+    background: url(../img/b_bg.jpg) no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
 }
 
 @media(max-width:768px) {
