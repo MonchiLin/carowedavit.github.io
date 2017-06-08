@@ -9,17 +9,17 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 # User setting
-owner:
-email:
+owner: Caroline and Avit
+email: avit.bhowmik@su.se
 facebook_username:
 twitter_username:
 github_username:
-address:
-  - line:
-  - line:
+address: c/o Anders Henriksson
+  - line: Dalstigen 21
+  - line: 18595 Vaxholm (Stockholm), Sweden
   # Feel free to add more lines here 
-telephone:
-copyright:
+telephone: +46737078618
+copyright: Avit K. Bhowmik
 
 # API settings
 google_api_key:
