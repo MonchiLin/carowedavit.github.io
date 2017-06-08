@@ -271,5 +271,13 @@ hr.small {
 /* Footer */
 
 footer {
+    display: table;
+    width: 100%;
+    height: 200px;
+    background: url(../img/t_bg.jpg) no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
     padding: 100px 0;
 }
