@@ -6,12 +6,12 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 # User setting
-owner: Avit
-email: avit.bhowmik@su.se
+owner:
+email:
 facebook_username:
 twitter_username:
 github_username:
-address: Sweden
+address:
   - line: 
   - line: 
   # Feel free to add more lines here 
